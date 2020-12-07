@@ -14,5 +14,12 @@
     <artifactId>dome-biz</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>demo-start</artifactId>
+        </dependency>
+    </dependencies>
+
 
 </project>
